@@ -32,6 +32,7 @@ stuff it needs:
  - use unfamiliar tech (run latest AI models, run some diffusion, operate comfyUI)
  - end to end App deployment (builds a game and deploys it on netlify)
  - novely improving an AI model (have it start with the NanoGPT repo and add features like RoPE, lilith optimizer, etc)
+  - after it does that, have it follow karpathys neural network recepie, all the way to optimize said network 
  - solve codeforces contests, former USACO problems
  - solve a bug in a real repo
  - compete in a CTF (show basic linux and cybersec skills)
