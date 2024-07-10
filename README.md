@@ -5,7 +5,9 @@ Idea: Programming Agent like devin, but based on gemini flash/pro (gemini flash 
  - it works because Devin AI itself is oai backed, and an equivalently powerful version, but run on gemini, could be a future google victory point, one that helps google win long term, and so they might pick us.
 
 **Note to self: store any and all data beta users and testers have to finetune the local first model when making that**
-**Note to samanyu: the competitors were asians whose parents were actually proud of them, beware**
+**Note to samanyu: the competitors are asians whose parents were actually proud of them, beware**
+
+https://x.com/realmcore_/status/1808258870311375151
 
 ## Features
 
